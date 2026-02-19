@@ -13,3 +13,7 @@ The frontend of the application is built using React to create a responsive and 
 How the System Works
 
 When a user selects a role or topic, the frontend sends a request to the backend server. The backend constructs a prompt and sends it to the GROQ API. The response from the GROQ API contains the interview questions and explanations, which are then processed and returned to the frontend. The frontend displays this content in a structured and user-friendly format. If the user clicks on the “learn more” option, an additional request is sent to fetch more detailed explanations for the selected topic.
+Demo and Source Code
+
+A short demo video of the project is available here:
+https://drive.google.com/file/d/1fnzgxrrGZJ47kRmLBdMMwrBve1uUDwAn/view?usp=sharing
